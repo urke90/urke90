@@ -56,11 +56,7 @@ Want to know more about me? [Check out my website.]([https://unesic.dev](https:/
   <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/Back–end-MongoDB-informational?style=flat&logo=MongoDB&logoColor=00EAD0&labelColor=121721&color=1F2C47" />
   <img alt="Back–end MongoDB" src="https://img.shields.io/badge/Back–end-MongoDB-informational?style=flat&logo=MongoDB&logoColor=00EAD0&labelColor=121721&color=1F2C47" />
 </picture>
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://img.shields.io/badge/CMS-WordPress-informational?style=flat&logo=WordPress&logoColor=0586C7&labelColor=E9EFFB&color=D5E0F6" />
-  <source media="(prefers-color-scheme: dark)" srcset="https://img.shields.io/badge/CMS-WordPress-informational?style=flat&logo=WordPress&logoColor=00EAD0&labelColor=121721&color=1F2C47" />
-  <img alt="CMS WordPress" src="https://img.shields.io/badge/CMS-WordPress-informational?style=flat&logo=WordPress&logoColor=00EAD0&labelColor=121721&color=1F2C47" />
-</picture>
+
 
 ### ...and also
 
