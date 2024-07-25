@@ -4,22 +4,6 @@ I'm Uroš, a software engineer currently specializing in full-stack web developm
 
 Want to know more about me? [Check out my website.]([https://unesic.dev](https://portfolio-six-kappa-58.vercel.app/))
 
-
-## 📈 GitHub stats
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=unesic&show_icons=true&count_private=true&bg_color=E9EFFB&title_color=0586C7&icon_color=0586C7&text_color=1F242E&border_color=0586C7&hide_border=true">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=unesic&show_icons=true&count_private=true&bg_color=121721&title_color=00EAD0&icon_color=00EAD0&text_color=BAC6DE&border_color=00EAD0&hide_border=true">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=unesic&show_icons=true&count_private=true&bg_color=121721&title_color=00EAD0&icon_color=00EAD0&text_color=BAC6DE&border_color=00EAD0&hide_border=true">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=unesic&hide=css&langs_count=4&layout=compact&bg_color=E9EFFB&title_color=0586C7&icon_color=0586C7&text_color=1F242E&border_color=0586C7&hide_border=true">
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=unesic&hide=css&langs_count=4&layout=compact&bg_color=121721&title_color=00EAD0&icon_color=00EAD0&text_color=BAC6DE&border_color=00EAD0&hide_border=true">
-  <img alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unesic&hide=css&langs_count=4&layout=compact&bg_color=121721&title_color=00EAD0&icon_color=00EAD0&text_color=BAC6DE&border_color=00EAD0&hide_border=true">
-</picture>
-
-
 ## 🛠 Skills
 
 <picture>
