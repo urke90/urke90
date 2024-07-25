@@ -1,6 +1,10 @@
 # Hey there 👋🏻
 
-I'm Uroš, a software engineer currently specializing in full-stack web development with primary focus on the front-end technologies.
+I'm Uroš, I am Software Engineer. My favorite language is Javascript/Typescript, and I build applications in Next.js, React.js and Node.js.
+
+From an early age, I developed a love for technology and computers. This same passion and energy continues to drive and motivate me every day, pushing me to make a  impact in the world of programming.
+
+Commitment to Excellence is my motto :)
 
 Want to know more about me? [Check out my website.]([https://unesic.dev](https://portfolio-six-kappa-58.vercel.app/))
 
